@@ -1,0 +1,33 @@
+
+.center { text-align: center !important;}
+
+.main-heading {
+    position: absolute;
+    left: auto;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    color:#000;
+}
+
+.main-heading span.border {
+    background-color: #636363;
+    color: #fff;
+    padding: 3px;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+.btn-custom {
+    font-size: 20px;
+    color:#fff;
+    border: solid 2px #fff;
+    border-radius: 0px;
+    background-color: #636363;
+}
+
+.btn-custom:hover {
+    color:#fff;
+    border-color:#636363;
+    background-color: none !important;
+}
